@@ -1,0 +1,164 @@
+.navrenk{
+    background-color:rgb(135, 174, 174);
+}
+
+.yanmenu  .iletisim{
+    padding-top: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+   
+}
+
+.icons .icon{
+    font-size: 25px;
+    padding-top: 20px;
+    color: black;
+    margin-left: 30px;
+    }
+
+    .koltuk{
+        width: 100%;
+        height: 700px;
+    }
+
+
+
+    .hizmetler  .hizmet{
+        background-color:rgb(135, 174, 174);
+
+        text-align: center;
+        
+    }
+
+    .hizmetler .nav-yazi a{
+        color: white;
+    }
+
+
+    .sacsakal{
+        background-color: #eee2e2;
+    }
+
+    .sacsakal h1{
+        font-family: cursive;
+    }
+
+    .sakalpart img{
+        padding-left: 50px;
+    }
+    
+
+    .nav-ust{
+        position: fixed;
+        top: 0px;
+    }
+
+
+    .galeri{
+
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin: auto;
+        padding: 35px;
+
+    }
+
+    .benkim{
+
+        border:4px solid #ccc
+        
+    }
+
+    .whatsapp {
+        border: 1px solid seagreen;
+        background-color: seagreen;
+        position: fixed;
+        bottom: 0;
+        width: 30%;
+        
+        padding: 4px 6px;
+        border-radius: 10px;
+        text-align: center;
+       
+        
+}
+
+
+
+@media(min-width:600px){
+
+    .whatsapp{display: none;
+    
+ 
+  
+   
+    
+    }
+}
+
+.whatsapp button a{
+  
+    
+    text-decoration: none;
+    color:white 
+    
+  
+
+   
+    
+}
+
+
+.makas{
+    font-size: 60px;
+    position: fixed;
+    bottom: 40px;
+    right: 30px;
+}
+
+
+@media(max-width:600px){
+
+    .makas{display: none;
+    
+ 
+  
+   
+    
+    }
+}
+
+.makas a{
+    color: #597d7d;
+}
+
+
+footer .derya{
+     color: #519090;;
+     text-align: center;
+     font-family: cursive;
+     font-size: 18px;
+}
+
+
+
+
+
+
+
+.hizmetyazi{
+    display: block;
+    margin: auto;
+    width: 700px;
+}
+
+
+
+
+
+
+
+
+
+
